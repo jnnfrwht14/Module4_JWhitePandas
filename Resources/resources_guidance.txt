@@ -1,0 +1,7 @@
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.sum.html#pandas.DataFrame.sum
+https://www.tutorialspoint.com/how-to-count-occurrences-of-specific-value-in-pandas-column
+https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf
+https://pandas.pydata.org/pandas-docs/stable/reference/series.html
+https://stackoverflow.com/questions/69851198/i-get-attributeerror-module-pandas-has-no-attribute-dataframe-when-using-pd
+https://stackoverflow.com/questions/20067636/pandas-dataframe-get-first-row-of-each-group 
+I used the Ask BCS chat functionality and received guidance from Dr. K and dsaw1121. Reed S pointed out an error in my code during office hours. All were incredibly helpful!
